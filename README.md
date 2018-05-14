@@ -33,7 +33,7 @@ There were 2 tasks - transmitter side and receiver side. The transmitter side in
 <img width="200" alt="rx" src="./img/demo_gif.gif">
 
 
-Video of the above GIF can be accessed [here](./demo_video.mp4).
+Video of the above GIF can be accessed [here](./img/demo_video.mp4).
 
 ---
 
